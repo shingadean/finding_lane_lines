@@ -37,6 +37,7 @@ First I initialize the slope, top and bottom value for both the left and right l
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 ![output1](https://github.com/shingadean/finding_lane_lines/blob/master/test_image_output/solidWhiteRight.jpg)
+![output2](https://github.com/shingadean/finding_lane_lines/blob/master/test_image_output/solidYellowCurve%20(1).jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
