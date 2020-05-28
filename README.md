@@ -36,7 +36,7 @@ First I initialize the slope, top and bottom value for both the left and right l
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+![output1]: ./test_image_output/solidWhiteRight.jpg
 
 
 ### 2. Identify potential shortcomings with your current pipeline
