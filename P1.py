@@ -374,11 +374,11 @@ def process_image(image):
     #plt.imshow(masked_image)
 
     #define the hough transform parameters
-    rho = 2
+    rho = 3
     theta = np.pi/180
-    threshold = 35
+    threshold = 50
     min_line_length = 10
-    max_line_gap = 140
+    max_line_gap = 110
 
     #draw the line image
     line_image = hough_lines(masked_image, rho, theta, threshold, min_line_length, max_line_gap)
